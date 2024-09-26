@@ -29,6 +29,11 @@ public class CuentaCorrienteEmpresa extends CuentaCorriente {
     }
 
     @Override
+    public Persona getPersona() {
+        return super.getPersona();
+    }
+
+    @Override
     public String toString() {
         return super.toString() +
                 "Tipo de interés por descubierto = " + interesDescubierto + ", " +

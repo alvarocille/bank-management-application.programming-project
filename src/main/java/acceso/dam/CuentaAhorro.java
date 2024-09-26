@@ -17,6 +17,11 @@ public class CuentaAhorro extends CuentaBancaria {
     }
 
     @Override
+    public Persona getPersona() {
+        return super.getPersona();
+    }
+
+    @Override
     public String toString() {
         return super.toString() + "Tipo de interés anual = " + interesAnual + '.';
     }

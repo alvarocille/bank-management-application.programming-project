@@ -19,6 +19,11 @@ public class CuentaCorrientePersonal extends CuentaCorriente {
     }
 
     @Override
+    public Persona getPersona() {
+        return super.getPersona();
+    }
+
+    @Override
     public String toString() {
         return super.toString() +
                 "Comisión de mantenimiento = " + comisionMantenimiento + '.';
