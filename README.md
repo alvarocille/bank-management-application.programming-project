@@ -30,7 +30,7 @@ Este proyecto es una aplicación de gestión de cuentas bancarias en Java, que p
 
 ## Requisitos
 
-- Java 11 o superior.
+- Amazon Coretto 22.0.2.
 - IntelliJ IDEA (opcional, pero recomendado para el desarrollo).
 
 ## Instrucciones de Ejecución
