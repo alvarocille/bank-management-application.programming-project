@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RepasoProgramacionPMDM_ACillerueloSinovas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RepasoProgramacionPMDM_ACillerueloSinovas_jar</output-path>
+    <root id="archive" name="RepasoProgramacionPMDM_ACillerueloSinovas.jar">
+      <element id="module-output" name="RepasoProgramacionPMDM_ACillerueloSinovas" />
+    </root>
+  </artifact>
+</component>
